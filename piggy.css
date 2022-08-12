@@ -1,0 +1,79 @@
+body {
+    
+}
+
+ul {
+    float: right;
+    word-spacing: 80px;
+    margin-right: 70px;
+}
+
+li {
+    display: inline;
+    font-size: medium;
+    font-weight: bold;
+}
+
+a {
+    font-size: 21px;
+}
+
+.last {
+    border: 1px solid blue;
+    background-color: blue;
+    word-spacing: 2px;
+    padding: 10px;
+    color: white;
+}
+
+.ima {
+    height: 70px;
+    margin-left: 100px;
+}
+
+.left {
+    /* border: 2px solid red; */
+    width: 35%;
+    word-spacing: 10px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+h1 {
+    font-family: sans-serif
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+p {
+    color: gray;
+    font-weight: bolder;
+    font-size: large;
+    word-spacing: 2px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+.fir {
+    background-color: blue;
+    color: grey;
+    font-weight: bolder;
+}
+
+.sec {
+    color: blue;
+    font-weight: bolder;
+    border: 1px solid blue;
+}
+
+.right {
+    float: right;
+    /* border: 2px solid black; */
+    margin-top: -240px;
+    width: 500px;
+    height: 300px;
+    margin-right: 240px;
+}
+
